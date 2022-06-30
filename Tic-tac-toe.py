@@ -1,3 +1,7 @@
+# Name - Samridhi
+# UID - 21MCA2090
+#Project Name - Tic-Tac-Toe
+
 import random
 import tkinter
 from tkinter import *
