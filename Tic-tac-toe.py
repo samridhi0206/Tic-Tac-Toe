@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[15]:
-
-
 import random
 import tkinter
 from tkinter import *
@@ -221,16 +215,3 @@ def play():
 # Call main function
 if __name__ == '__main__':
     play()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
